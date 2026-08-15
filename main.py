@@ -1,6 +1,6 @@
-def main():
-    print("Hello from multy-agent-system!")
+from src.tools.tools import web_search,scrape_web
+from rich import print
 
 
-if __name__ == "__main__":
-    main()
+result = scrape_web.invoke(" https://ai.cornell.edu/category/featured")
+print(result)
