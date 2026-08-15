@@ -1,0 +1,17 @@
+langchain-core
+langchain-community
+langchain-mistralai
+streamlit
+tavily-python
+beautifulsoup4
+requests
+readability-lxml
+trafilatura
+lxml
+python-dotenv
+langchain-classic
+ipykernel
+dotenv
+requests
+langchainhub
+langsmith
